@@ -1,6 +1,7 @@
 # Weird Field Thingy
 
-https://github.com/anttiluode/weirdfieldthingy/raw/main/weirdfieldthing.png
+![Weird Field Thingy](https://github.com/anttiluode/weirdfieldthingy/raw/main/weirdfieldthing.png)
+
 
 
 A dynamic field simulation with live webcam input built using PyTorch and Tkinter. The evolving 2D field is updated via convolution, decay, and noise, with an external bias from your webcam. You can adjust simulation parameters on-the-fly and fully reset the program to clear any repeating patterns.

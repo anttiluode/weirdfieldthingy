@@ -1,16 +1,16 @@
 # Weird Field Thingy
 
+
+A dynamic field simulation with live webcam input built using PyTorch and Tkinter. The evolving 2D field is updated via convolution, decay, and noise, with an external bias from your webcam. You can adjust simulation parameters on-the-fly and fully reset the program to clear any repeating patterns.
+
 ![Weird Field Thingy](https://github.com/anttiluode/weirdfieldthingy/raw/main/weirdfieldthing.png)
 
 EDIT: O3 high / Claude wrote the ephaptic version based on this paper: 
 
-https://arxiv.org/abs/2404.17073
+"https://arxiv.org/abs/2404.17073:
 
-"Can ephapticity contribute to the brain complexity?
+Can ephapticity contribute to the brain complexity?
 Gabriel Moreno Cunha1,4¶, Gilberto Corso1,2&, Matheus Phellipe Brasil de Sousa1,4&, Gustavo Zampier dos Santos Lima1,3,4,5*&"
-
-
-A dynamic field simulation with live webcam input built using PyTorch and Tkinter. The evolving 2D field is updated via convolution, decay, and noise, with an external bias from your webcam. You can adjust simulation parameters on-the-fly and fully reset the program to clear any repeating patterns.
 
 ## Features
 
